@@ -1,0 +1,14 @@
+{
+  "name": "differ",
+  "version": "1.0.0",
+  "description": "Tool to get diff between something",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "phantomjs": "^2.1.7",
+    "pixelmatch": "^4.0.2",
+    "pngjs": "^3.0.0"
+  }
+}
